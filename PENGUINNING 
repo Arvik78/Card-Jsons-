@@ -1,9 +1,9 @@
 {
 "success": true,
 "asset": "PENGUINNING",
-"image": "https://arweave.net/ZJEGr8xz-NjAAywi5Ny28qbPm4eWhRNM2UFReUnN0cs/ty40sy_thumb.png",
+"image": "https://ar.io/ZJEGr8xz-NjAAywi5Ny28qbPm4eWhRNM2UFReUnN0cs/ty40sy_thumb.png",
 "image_title": "PENGUINNING",
-"description": " <br /><img src=\"https://arweave.net/Lew28jgMYmSXQsyiMvfbhY7OGixLy0Vx_YQL3cN9kCg/ty40sy_image.jpg\" class=\"img-responsive\" /><br />   <div><p>Buckle Up</p></div>",
+"description": " <br /><img src=\"https://ar.io/Lew28jgMYmSXQsyiMvfbhY7OGixLy0Vx_YQL3cN9kCg/ty40sy_image.jpg\" class=\"img-responsive\" /><br />   <div><p>Buckle Up</p></div>",
 "website": "",
 "pgpsig": "Arvik",
 "category": "",
@@ -29,8 +29,8 @@
 "website_social_reddit": "",
 "website_social_googleplus": "",
 "minted_on": "https://easyasset.art/",
-"image_large": "https://arweave.net/Lew28jgMYmSXQsyiMvfbhY7OGixLy0Vx_YQL3cN9kCg/ty40sy_image.jpg",
-"image_large_hd": "",
+"image_large": "https://image.nostr.build/abf1ddad2eefe512c63f78d0715b6f146dc87c1ed9b4321d98f51f049c4c2928.jpg",
+"image_large_hd": "https://image.nostr.build/3df052dd5b5dfae991285b0b3223128f3ff0999df8c1bff6f80940dee16b9f68.jpg",
 "video": "",
 "audio": ""
 }
